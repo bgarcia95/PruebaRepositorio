@@ -12,6 +12,7 @@ package pruebarepositoriogit;
 public class PruebaRepositorioGit {
     private String nombre;
     private int valor;
+    private String valorPrueba;
     /**
      * @param args the command line arguments
      */
