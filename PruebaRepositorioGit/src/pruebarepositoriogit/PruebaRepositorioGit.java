@@ -13,6 +13,7 @@ public class PruebaRepositorioGit {
     private String nombre;
     private int valor;
     private String valorPrueba;
+    private String Ex;
     /**
      * @param args the command line arguments
      */
@@ -47,5 +48,5 @@ public class PruebaRepositorioGit {
     public void setValor(int valor) {
         this.valor = valor;
     }
-    Hola mundo
+ 
 }
